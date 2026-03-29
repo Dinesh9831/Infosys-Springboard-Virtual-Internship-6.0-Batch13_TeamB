@@ -98,5 +98,5 @@ If you find this project useful, consider giving it a ⭐ on GitHub!
 
 ## 🏷️ Version  
 
-**Version:** v1.0
+**Version:** v1.0 
 **Last Updated:** March 2026
